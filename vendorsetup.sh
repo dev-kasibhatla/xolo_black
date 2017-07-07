@@ -1,1 +1,1 @@
-add_lunch_combo cm_black-userdebug
+add_lunch_combo lineage_black-userdebug

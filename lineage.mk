@@ -11,8 +11,8 @@ $(call inherit-product, device/xolo/black/device.mk)
 $(call inherit-product, device/xolo/black/full_black.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := black
 PRODUCT_NAME := lineage_black
-PRODUCT_BRAND := xolo
-PRODUCT_MODEL := black
+PRODUCT_DEVICE := black
 PRODUCT_MANUFACTURER := xolo
+PRODUCT_BRAND := xolo
+
